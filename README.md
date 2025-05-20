@@ -1,7 +1,7 @@
 # 🧮 Calculadora em Python
 
 Este é um projeto simples de uma calculadora desenvolvida em Python.  
-Ela realiza as cincos operações matemáticas básicas: **adição, subtração, multiplicação , divisão e potenciação**.
+Ela realiza as quartos operações matemáticas básicas: **adição, subtração, multiplicação , divisão. E com a  operação algébrica da potenciação**.
 
 ---
 
